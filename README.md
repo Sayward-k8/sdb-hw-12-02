@@ -28,6 +28,12 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 # Решение 1
 
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/1.3.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/1.5.1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/1.5.2.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/1.8.1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/1.8.2.png)
+
 # Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
@@ -35,3 +41,5 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 customer         | customer_id
 
 # Решение 2
+
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/2.png)
