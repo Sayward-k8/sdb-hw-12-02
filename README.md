@@ -45,32 +45,25 @@ customer         | customer_id
 | **TABLE** | **PRIMARY KEY** |
 |---|---|
 | actor  | actor_id |
-| actor_info | - |
 | address | address_id |
 | category | category_id |
 | city | city_id |
 | country | country_id |
 | customer | customer_id |
-| customer_list | - |
 | film | film_id |
 | film_actor | actor_id, film_id |
 | film_category | category_id, film_id |         
-| film_list | - |
 | film_text | film_id  |
 | inventory | inventory_id  |
 | language | language_id  |
-| nicer_but_slower_film_list  | - |
 | payment | payment_id |
 | rental | rental_id |
-| sales_by_film_category | - |
-| sales_by_store  | - |
 | staff | staff_id |
-| staff_list | - |
 | store | store_id |
 
 <details>
 
-Скрин из Excel
+Скрин из Excel, в итоговую таблицу, представления не стал добавлять
 ![alt text](https://github.com/Sayward-k8/sdb-hw-12-02/blob/main/img/2.png)
 
 </details>
